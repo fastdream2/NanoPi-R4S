@@ -1,4 +1,4 @@
-# 使用 Github Actions 在线编译 NanoPi-R4S 固件@@@
+# 使用 Github Actions 在线编译 NanoPi-R4S 固件@@@!!!!!!
 
 ## 声明
 * 本固件处于早期阶段，存在诸多稳定性和功能性问题，不提供任何技术支持
